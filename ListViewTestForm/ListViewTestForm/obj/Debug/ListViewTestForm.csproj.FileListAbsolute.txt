@@ -1,0 +1,10 @@
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\bin\Debug\ListViewTestForm.exe.config
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\bin\Debug\ListViewTestForm.exe
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\bin\Debug\ListViewTestForm.pdb
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\obj\Debug\ListViewTestForm.csprojAssemblyReference.cache
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\obj\Debug\ListViewTestForm.Form1.resources
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\obj\Debug\ListViewTestForm.Properties.Resources.resources
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\obj\Debug\ListViewTestForm.csproj.GenerateResource.cache
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\obj\Debug\ListViewTestForm.csproj.CoreCompileInputs.cache
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\obj\Debug\ListViewTestForm.exe
+C:\Users\szkri\Desktop\Projects\Csharp\ListViewTestForm\ListViewTestForm\obj\Debug\ListViewTestForm.pdb
